@@ -3,7 +3,7 @@ const Footer = () => {
     <div>
       Copyright 2021 Ninja List
     </div>
-  );
+  )
 }
 
-export default Footer;
+export default Footer

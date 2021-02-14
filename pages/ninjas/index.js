@@ -3,7 +3,7 @@ const Ninjas = (params) => {
     <div>
       <h1>Ninjas</h1>
     </div>
-  );
+  )
 }
 
-export default Ninjas;
+export default Ninjas
